@@ -1,0 +1,177 @@
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.deps.json
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.runtimeconfig.json
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.runtimeconfig.dev.json
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.dll
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.pdb
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.Views.dll
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.Views.pdb
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.csproj.CoreCompileInputs.cache
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorAssemblyInfo.cache
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorAssemblyInfo.cs
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.AssemblyInfoInputs.cache
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.AssemblyInfo.cs
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.TagHelpers.input.cache
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.TagHelpers.output.cache
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorCoreGenerate.cache
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorTargetAssemblyInfo.cache
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorTargetAssemblyInfo.cs
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.Views.pdb
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.dll
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.pdb
+E:\R39_Akib\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.csproj.CopyComplete
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.AssemblyInfo.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.dll
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.pdb
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.deps.json
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.runtimeconfig.json
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.runtimeconfig.dev.json
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.dll
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.pdb
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.Views.dll
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.Views.pdb
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.TagHelpers.input.cache
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.TagHelpers.output.cache
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.Views.pdb
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.csproj.CopyComplete
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Create.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Delete.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Details.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Edit.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Index.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Create.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Delete.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Details.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Edit.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Index.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\List.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\MedicinesSummary.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\ShoppingCart\Index.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Carousel.g.cshtml.cs
+C:\Users\HP\Desktop\OnlineManagmentManagment\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.csprojAssemblyReference.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.deps.json
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.runtimeconfig.json
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.runtimeconfig.dev.json
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.pdb
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.Views.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.Views.pdb
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorAssemblyInfo.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorAssemblyInfo.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.AssemblyInfoInputs.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.AssemblyInfo.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.TagHelpers.input.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.TagHelpers.output.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorCoreGenerate.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Create.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Delete.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Details.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Edit.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Index.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\All.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Create.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Delete.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Details.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Edit.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Index.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\List.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Order\CheckoutComplete.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Carousel.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryMenu\Default.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\ShoppingCartSummary\Default.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\MedicinesSummary.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\ShoppingCart\Index.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorTargetAssemblyInfo.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.Views.pdb
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.pdb
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.csproj.CopyComplete
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.deps.json
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.runtimeconfig.json
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.dll
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.pdb
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.Views.dll
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\bin\Debug\netcoreapp2.2\OnlineShopingManangment.Views.pdb
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.AssemblyInfo.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.TagHelpers.input.cache
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.TagHelpers.output.cache
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Create.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Delete.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Details.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Edit.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Categorie\Index.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\All.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Create.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Delete.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Details.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Edit.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\Index.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Medicine\List.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Order\CheckoutComplete.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Carousel.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryMenu\Default.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\ShoppingCartSummary\Default.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\MedicineOverviewSummary.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\MedicinesSummary.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\ShoppingCart\AddToShoppingCart.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\ShoppingCart\Index.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.Views.pdb
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.dll
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.pdb
+C:\Users\HP\Desktop\Project09Backup\New 2_\OnlineShopingManangment\OnlineShopingManangment\obj\Debug\netcoreapp2.2\OnlineShopingManangment.csproj.CopyComplete

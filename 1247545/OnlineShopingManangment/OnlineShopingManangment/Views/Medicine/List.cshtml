@@ -1,0 +1,11 @@
+﻿
+
+
+@model MedicineListViewModel
+
+<div class="row marginTop">
+    @foreach (var medicine in Model.Medicines)
+    {
+        @Html.Partial("MedicinesSummary", medicine)
+    }
+</div>
